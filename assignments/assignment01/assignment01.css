@@ -52,7 +52,7 @@ nav a {
 
 h2 {
     margin: 100px;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     text-align: center;
     padding: 0;
 }
@@ -80,6 +80,11 @@ h3 {
 
 section {
     margin: 50px;
+    background-color: #e4e6ed;
+    padding-top: 45px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 45px;
 }
 
 #myBtn {
