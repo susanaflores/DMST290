@@ -38,9 +38,11 @@ nav a {
 
 #nyc, #climate, #people, #travel, #food, #crime {
     height: 600%;
-    background: pink;
-    display: inline-block;
-    width: 100%;
+    background: white;
+    display: block;
+    width: 75%;
+    margin: auto;
+    padding: 10px;
 }
 
 #nyc-map {
