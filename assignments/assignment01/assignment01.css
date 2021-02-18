@@ -34,6 +34,7 @@ nav a {
     color: #fff;
     text-transform: uppercase;
     font-weight: bold;
+    font-size: 20px;
 }
 
 #nyc, #climate, #people, #travel, #food, #crime {
@@ -57,6 +58,7 @@ h2 {
     padding: 15px 40px 15px 50px;
     background-color: #061340;
     color: white;
+    font-size: 20px;
 }
 
 h3 {
