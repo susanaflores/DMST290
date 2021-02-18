@@ -54,7 +54,9 @@ h2 {
     margin: 100px;
     margin-bottom: 20px;
     text-align: center;
-    padding: 0;
+    padding: 15px 40px 15px 50px;
+    background-color: #061340;
+    color: white;
 }
 
 h3 {
