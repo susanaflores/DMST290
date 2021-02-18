@@ -59,6 +59,7 @@ h2 {
     background-color: #061340;
     color: white;
     font-size: 20px;
+    box-shadow: 0px 6px 8px 0 rgba(0, 0, 0, 0.30), 0px 6px 8px 0 rgba(0, 0, 0, 0.30);
 }
 
 h3 {
@@ -89,7 +90,7 @@ section {
     padding-right: 50px;
     padding-left: 50px;
     padding-bottom: 45px;
-}
+    box-shadow: 0px 6px 8px 0 rgba(0, 0, 0, 0.30), 0px 6px 8px 0 rgba(0, 0, 0, 0.30);
 
 #myBtn {
     display: none;
