@@ -27,7 +27,7 @@ li {
 }
 
 nav a {
-    padding: 20px;
+    padding: 20px 10px 20px 10px;
     width: 100px;
     display: block;
     text-decoration: none;
@@ -35,6 +35,10 @@ nav a {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 20px;
+}
+
+a:hover {
+    background-color: #e4e6ed;
 }
 
 #nyc, #climate, #people, #travel, #food, #crime {
