@@ -11,23 +11,28 @@ body {
 nav {
     width: 100%;
     background: #262626;
+    padding: 20px 10px 20px 10px;
     overflow: hidden;
     position: fixed;
     top: 0;
 }
 
 ul {
-    padding: 0;
+    padding-left: 30px;
     margin: 0;
     list-style: none;
 }
 
+.topnav-right {
+  float: right;
+}
+
 li {
     float: left;
+    padding-right: 15px;
 }
 
 nav a {
-    padding: 20px 10px 20px 10px;
     width: 100px;
     display: block;
     text-decoration: none;
