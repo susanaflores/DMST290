@@ -18,7 +18,7 @@ nav {
 }
 
 ul {
-    padding-left: 30px;
+    padding-left: 50px;
     margin: 0;
     list-style: none;
 }
@@ -29,7 +29,7 @@ ul {
 
 li {
     float: left;
-    padding-right: 15px;
+    padding-right: 25px;
 }
 
 nav a {
@@ -42,8 +42,8 @@ nav a {
     font-size: 20px;
 }
 
-a:hover {
-    background-color: #e4e6ed;
+nav a:hover {
+    color: #b6c2f2;
 }
 
 #nyc, #climate, #people, #travel, #food, #crime {
